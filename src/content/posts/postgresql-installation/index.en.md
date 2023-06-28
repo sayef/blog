@@ -11,7 +11,8 @@ images: []
 resources:
   - name: 'featured-image'
     src: 'featured-image.png'
-
+math:
+  enable: true
 tags: ['ubuntu', 'database', 'postgresql']
 categories: ['Software']
 

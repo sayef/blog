@@ -11,7 +11,8 @@ images: []
 resources:
 #   - name: 'featured-image'
 #     src: 'featured-image.png'
-
+math:
+  enable: true
 tags: ['lexical-analyzer', 'parser', 'yacc', 'bison']
 categories: ['Lexical Analyzer']
 

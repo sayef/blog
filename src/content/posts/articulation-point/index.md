@@ -11,7 +11,8 @@ images: []
 resources:
 #   - name: 'featured-image'
 #     src: 'featured-image.png'
-
+math:
+  enable: true
 tags: ['graph', 'algorithm', 'programming']
 categories: ['Programming']
 

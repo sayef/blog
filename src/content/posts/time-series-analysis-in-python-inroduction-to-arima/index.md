@@ -11,7 +11,8 @@ images: []
 resources:
 #   - name: 'featured-image'
 #     src: 'featured-image.png'
-
+math:
+  enable: true
 tags: ['python', 'arima', 'time-series']
 categories: ['Time Series Analysis']
 

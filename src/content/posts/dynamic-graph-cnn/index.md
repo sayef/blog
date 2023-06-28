@@ -11,7 +11,8 @@ images: []
 resources:
 #   - name: 'featured-image'
 #     src: 'featured-image.png'
-
+math:
+  enable: true
 tags: ['deep-learning', 'dgcnn', 'ai', 'graph', '3d', 'cnn', 'pointclouds']
 categories: ['Point Clouds']
 
